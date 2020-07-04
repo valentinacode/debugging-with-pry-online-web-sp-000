@@ -1,4 +1,4 @@
-exdef plus_tow(num)
+exdef plus_two(num)
 	num + 4
 	num
 	 binding.pry
